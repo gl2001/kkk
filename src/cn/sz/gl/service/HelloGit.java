@@ -5,6 +5,6 @@ public class HelloGit {
 	public void show() {
 		System.out.println("show...");
 		System.out.println("hello");
-		System.out.println("worldddddd");
+		System.out.println("worldkkk");
 	}
 }
